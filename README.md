@@ -60,7 +60,7 @@ This project is designed without any external library, making it perfect for beg
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_DC_Motor_L9110S.ino)
+[Download Arduino Code](Arduino_DC_Motor_Control_Using_L9110S_Driver.ino)
 
 Or open the `.ino` file directly inside this repository.
 
