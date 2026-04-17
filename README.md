@@ -95,7 +95,7 @@ This project helps you understand:
 
 Watch the full step-by-step tutorial on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/channel/UCpfAZXTqOsfymN9km-hLfFQ)
+[![Watch the video](https://img.youtube.com/vi/Mc7-Wv3jd3I/0.jpg)](https://youtu.be/Mc7-Wv3jd3I)
 
 In this video, you will see:
 - Complete wiring demonstration  
